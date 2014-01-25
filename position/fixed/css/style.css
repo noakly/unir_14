@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+	background-color:#999999;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10px;
+}
+
+#content{
+ 	width: 200px;
+ 	margin-top: 60px; 
+	margin-left: 40%;
+	position:relative;
+	padding:20px;
+	background-color:#CCCCCC;
+	height:1500px;
+}
+
+.posicion_image{
+	position:fixed;
+}
+
+.posicion_texto{
+	position:relative;
+}
